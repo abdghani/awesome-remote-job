@@ -162,6 +162,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [WFH.io](https://www.wfh.io/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](http://www.workingnomads.co/jobs)
+  1. [instahyre](instahyre.com)
 
 ## Job boards aggregators
   1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
